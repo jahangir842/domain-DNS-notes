@@ -1,3 +1,5 @@
+**AWS Docs**  https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-transfer-from-route-53.html
+
 Transferring a domain from AWS Route 53 to Google Cloud DNS involves a few steps to ensure a smooth and secure transition. Here’s a detailed guide to help you with the process:
 
 ### Steps to Transfer a Domain from AWS to Google Cloud DNS
