@@ -1,5 +1,7 @@
 ## DNSSEC (Domain Name System Security Extensions)
 
+https://www.cloudflare.com/dns/dnssec/how-dnssec-works/
+
 ### **Introduction**
 DNSSEC is a set of extensions to DNS (Domain Name System) designed to protect against certain types of attacks and ensure the integrity and authenticity of DNS responses. It adds a layer of security to prevent attacks such as cache poisoning and man-in-the-middle attacks by providing cryptographic verification of DNS data.
 
